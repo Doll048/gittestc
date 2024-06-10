@@ -1,0 +1,2 @@
+# gittestc
+komantarii rabotaet?
